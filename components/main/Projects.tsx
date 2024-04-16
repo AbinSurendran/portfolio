@@ -25,7 +25,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/abin_portfolio.png"
-          title="Space Themed Website"
+          title="Portfolio Website"
           description="Embark on a cosmic journey through the depths of the digital universe with Cosmic Portfolio, a dynamic website crafted using Next.js, Framer Motion, and Tailwind CSS. Prepare to showcase your talents and accomplishments in a visually captivating space-themed environment.
 
           "
